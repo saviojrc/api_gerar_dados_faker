@@ -1,0 +1,14 @@
+{
+  "tipos_de_pessoas": [
+    {
+      "descricao": "Jurídica",
+      "abreviacao": "PJ",
+      "tipo_de_documento": "CNPJ"
+    },
+    {
+      "descricao": "Física",
+      "abreviacao": "PF",
+      "tipo_de_documento": "CPF"
+    }
+  ]
+}

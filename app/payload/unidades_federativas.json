@@ -1,0 +1,139 @@
+{
+  "unidades_federativas": [
+    {
+      "codigo_ibge": "11",
+      "unidade_da_federacao": "Rondônia",
+      "uf": "RO"
+    },
+    {
+      "codigo_ibge": "12",
+      "unidade_da_federacao": "Acre",
+      "uf": "AC"
+    },
+    {
+      "codigo_ibge": "13",
+      "unidade_da_federacao": "Amazonas",
+      "uf": "AM"
+    },
+    {
+      "codigo_ibge": "14",
+      "unidade_da_federacao": "Roraima",
+      "uf": "RR"
+    },
+    {
+      "codigo_ibge": "15",
+      "unidade_da_federacao": "Pará",
+      "uf": "PA"
+    },
+    {
+      "codigo_ibge": "16",
+      "unidade_da_federacao": "Amapá",
+      "uf": "AP"
+    },
+    {
+      "codigo_ibge": "17",
+      "unidade_da_federacao": "Tocantins",
+      "uf": "TO"
+    },
+    {
+      "codigo_ibge": "21",
+      "unidade_da_federacao": "Maranhão",
+      "uf": "MA"
+    },
+    {
+      "codigo_ibge": "22",
+      "unidade_da_federacao": "Piauí",
+      "uf": "PI"
+    },
+    {
+      "codigo_ibge": "23",
+      "unidade_da_federacao": "Ceará",
+      "uf": "CE"
+    },
+    {
+      "codigo_ibge": "24",
+      "unidade_da_federacao": "Rio Grande do Norte",
+      "uf": "RN"
+    },
+    {
+      "codigo_ibge": "25",
+      "unidade_da_federacao": "Paraíba",
+      "uf": "PB"
+    },
+    {
+      "codigo_ibge": "26",
+      "unidade_da_federacao": "Pernambuco",
+      "uf": "PE"
+    },
+    {
+      "codigo_ibge": "27",
+      "unidade_da_federacao": "Alagoas",
+      "uf": "AL"
+    },
+    {
+      "codigo_ibge": "28",
+      "unidade_da_federacao": "Sergipe",
+      "uf": "SE"
+    },
+    {
+      "codigo_ibge": "29",
+      "unidade_da_federacao": "Bahia",
+      "uf": "BA"
+    },
+    {
+      "codigo_ibge": "31",
+      "unidade_da_federacao": "Minas Gerais",
+      "uf": "MG"
+    },
+    {
+      "codigo_ibge": "32",
+      "unidade_da_federacao": "Espírito Santo",
+      "uf": "ES"
+    },
+    {
+      "codigo_ibge": "33",
+      "unidade_da_federacao": "Rio de Janeiro",
+      "uf": "RJ"
+    },
+    {
+      "codigo_ibge": "35",
+      "unidade_da_federacao": "São Paulo",
+      "uf": "SP"
+    },
+    {
+      "codigo_ibge": "41",
+      "unidade_da_federacao": "Paraná",
+      "uf": "PR"
+    },
+    {
+      "codigo_ibge": "42",
+      "unidade_da_federacao": "Santa Catarina",
+      "uf": "SC"
+    },
+    {
+      "codigo_ibge": "43",
+      "unidade_da_federacao": "Rio Grande do Sul",
+      "uf": "RS"
+    },
+    {
+      "codigo_ibge": "50",
+      "unidade_da_federacao": "Mato Grosso do Sul",
+      "uf": "MS"
+    },
+    {
+      "codigo_ibge": "51",
+      "unidade_da_federacao": "Mato Grosso",
+      "uf": "MT"
+    },
+    {
+      "codigo_ibge": "52",
+      "unidade_da_federacao": "Goiás",
+      "uf": "GO"
+    },
+    {
+      "codigo_ibge": "53",
+      "unidade_da_federacao": "Distrito Federal",
+      "uf": "DF"
+    }
+  ]
+}
